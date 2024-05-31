@@ -1,0 +1,1 @@
+blocks=divideImageIntoBlocks1('lena_ycomp_img.jpg')
